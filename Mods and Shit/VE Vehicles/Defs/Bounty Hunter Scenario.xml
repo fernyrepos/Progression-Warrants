@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-  <ScenarioDef>
+  <ScenarioDef ParentName="ScenarioBase">
     <defName>Ferny_BountyHunter</defName>
     <label>The Bounty Hunter</label>
     <description>Even the most morally sound of men must adapt on an anarchic planet. Bounty hunters on the Rim traverse the planet in an attempt to make ends meet. With nothing but an unreliable car and a revolver in hand, your only way forward is taking warrants. Each job may be drastically different from the last and test your morality with each and every kill.\n\nParking your car, you take out your radio and tune the frequency.\n\nGreat for a nomadic playstyle.
